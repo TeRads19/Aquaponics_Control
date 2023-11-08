@@ -12,6 +12,20 @@ Arduino Code for Control Node on Aquaponics Projects.
 * RobotDyn dual channel AC Dimmer & Zero-Crossing module
 * Nextion NX4832K035 Resistif TFT touchscreen.
 
+## Used Arduino API and Library
+* [Repository for Embedded Firebase Integration](https://github.com/mobizt)
+* [Default Repository for RobotDyn AC Dimmer](https://github.com/RobotDynOfficial/RBDDimmer)
+* [Repository for AC Dimmer that I use](https://github.com/fabianoriccardi/dimmable-light)
+* [One-Wire By Paul Stoffergent](https://github.com/PaulStoffregen/OneWire)
+* [Arduino Wifi](https://github.com/arduino-libraries/WiFi)
+* [ESP DateTime](https://github.com/mcxiaoke/ESPDateTime)
+* [Greenponik DFRobot pH Library Repository](https://github.com/GreenPonik/DFRobot_ESP_PH_BY_GREENPONIK)
+* [DFRobot Dissolved Oxygen Documentation](https://wiki.dfrobot.com/Gravity__Analog_Dissolved_Oxygen_Sensor_SKU_SEN0237)
+* [DFRobot TDS Library Repository](https://github.com/DFRobot/GravityTDS)
+* [Default DS18B20 Arduino Library Repository by dallas temperature](https://github.com/milesburton/Arduino-Temperature-Control-Library)
+* [Matmunk DS18B20 Arduino Library Repository](https://github.com/matmunk/DS18B20)
+* [Default Nextion display Arduino library repository](https://github.com/itead/ITEADLIB_Arduino_Nextion)
+
 
 ## Control System Schematics
 ![Example Image](https://drive.google.com/uc?id=1mMVa8zDyjzyA-RP0FeLBaGFyblFXNmOj)
@@ -44,6 +58,8 @@ This project using AC (Alternating Current) water pump and aerator. You are welc
 
 ### Brief explanation on how AC Dimmer works
 
+## Useful Sites
+* [Direct FIS library for Arduino](https://blog.zerokol.com/2012/09/arduinofuzzy-fuzzy-library-for-arduino.html)
 
 
 ## IMPORTANT NOTES
