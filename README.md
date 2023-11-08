@@ -18,11 +18,18 @@ Arduino Code for Control Node on Aquaponics Projects.
 
 ## FIS Control
 
-### Membership Function
 
 ### Fuzzyfication
+On fuzzyfication step, the input from each parameter (pH, TDS, DO and Temperature) converted into fuzzy value based on the respective membership function. Here is the image showing the membership function of each input parameter
+
+![pH Membership Function]()
+![DO Membership Function]()
+![TDS Membership Function]()
+![Temperature Membership Function]()
+
 
 ### Inference
+On this project i use 160 Fuzzy Rule-Base to get the implication result for output value of water pump and aerator
 
 ### De-Fuzzification
 
