@@ -1,7 +1,7 @@
 # Aquaponics_Control
 Arduino Code for Control Node on Aquaponics Projects.
 
-##DEVICE SPECIFICATION##
+## DEVICE SPECIFICATION
 
 *FireBeetle ESP32 IoT Microcontroller
 *DFRobot pH sensor pro V2 kit
