@@ -14,7 +14,8 @@ Arduino Code for Control Node on Aquaponics Projects.
 
 
 ## Control System Schematics
-![image](https://drive.google.com/uc?export=view&id=1mMVa8zDyjzyA-RP0FeLBaGFyblFXNmO)
+<a href="https://drive.google.com/uc?export=view&id=1mMVa8zDyjzyA-RP0FeLBaGFyblFXNmO"><img src="https://drive.google.com/uc?export=view&id=1mMVa8zDyjzyA-RP0FeLBaGFyblFXNmO" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
 ## FIS Control
 
 ### Membership Function
