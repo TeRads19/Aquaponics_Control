@@ -13,4 +13,21 @@ Arduino Code for Control Node on Aquaponics Projects.
 * Nextion NX4832K035 Resistif TFT touchscreen.
 
 
+## Control System Schematics
+
+## FIS Control
+
+### Membership Function
+
+### Fuzzyfication
+
+### Inference
+
+### De-Fuzzification
+
+## IMPORTANT NOTES
+
+
+
+
 
