@@ -3,9 +3,6 @@ Arduino Code for Control Node on Aquaponics Projects.
 
 ## DEVICE SPECIFICATION
 
-* Dasbor
-* Tables
-* Manual Override
 * FireBeetle ESP32 IoT Microcontroller
 * DFRobot pH sensor pro V2 kit
 * DFRobot analog Dissolved Oxygen sensor kit
